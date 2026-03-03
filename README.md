@@ -30,10 +30,10 @@ Source: Kaggle - Netflix Movies and TV Shows Dataset (https://www.kaggle.com/dat
 
 ## Project Structure
 netflix-movies-tv-shows-analysis
-── data/
-── excel/
-── sql/
-── tableau/
+── data
+── excel
+── sql
+── tableau
 ── README.md
 
 ## Tableau Dashboard
