@@ -12,7 +12,7 @@ Source: Kaggle - Netflix Movies and TV Shows Dataset (https://www.kaggle.com/dat
 - SQL (Data Analysis & Aggregations)
 - Tableau (Data Visualization & Dashboard)
   
-  ## Key Analysis Performed
+## Key Analysis Performed
 - Number of contents by country
 - Content distribution by type (Movie vs TV Show)
 - Content added per year
