@@ -1,11 +1,11 @@
 # Netflix Movies & TV Shows Analysis (1925-2021)
 
 ## Project Overview
-This project analyzes the Netflix Movies and TV Shows dataset from Kaggle.
-The analysis was performed using Excel, SQL, and Tableau.
+- This project analyzes the Netflix Movies and TV Shows dataset from Kaggle.
+- The analysis was performed using Excel, SQL, and Tableau.
 
 ## Dataset
-Source: Kaggle - Netflix Movies and TV Shows Dataset (https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- Source: Kaggle - Netflix Movies and TV Shows Dataset (https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Tools Used
 - Microsoft Excel (Data Cleaning & Pivot Tables)
@@ -37,8 +37,8 @@ netflix-movies-tv-shows-analysis
 ── README.md
 
 ## Tableau Dashboard
-https://tabsoft.co/4rLO1GZ
+- https://tabsoft.co/4rLO1GZ
 
 ## Conclusion
-This project demonstrates data cleaning, SQL querying, and visualization skills
+- This project demonstrates data cleaning, SQL querying, and visualization skills
 using real-world Netflix dataset.
