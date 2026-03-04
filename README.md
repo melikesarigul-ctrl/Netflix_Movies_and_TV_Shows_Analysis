@@ -29,7 +29,7 @@
 - Longest movies generally fall between 2–3 hours; TV shows mostly have 1–3 seasons. 
 
 ## Project Structure
-netflix-movies-tv-shows-analysis
+- netflix-movies-tv-shows-analysis
 ── DATA
 ── EXCEL
 ── SQL
